@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Saurabh Kokane!  
+🚀 **Developer | Data Visualization,data scientist,|Machine learning**  
 
-<!--
-**SaurabhKokaneHub/SaurabhKokaneHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about coding, problem-solving, and data-driven insights.  
+🔹 Exploring **Crime Rate Analysis** in R.  
+🔹 Love working on open-source projects & learning new technologies.  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+💻 **Languages:** Python, R, JavaScript, SQL  
+📊 **Data Science:** Pandas, NumPy, ggplot2, Machine Learning  
+⚡ **Tools & Platforms:** Git, GitHub, Docker, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!  
+[![LinkedIn](](saurabh-kokane-b40b1b313L)  
+[![GitHub]()](https://github.com/SaurabhKokaneHub)  
