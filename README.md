@@ -11,5 +11,7 @@
 ⚡ **Tools & Platforms:** Git, GitHub, Docker, VS Code  
 
 ## 📫 Let's Connect!  
-[![LinkedIn](](www.linkedin.com/in/saurabh-kokane-b40b1b313L)  
+[![LinkedIn]]()(www.linkedin.com/in/
+saurabh-kokane-b40b1b313
+)  
 [![GitHub]()](https://github.com/SaurabhKokaneHub)  
